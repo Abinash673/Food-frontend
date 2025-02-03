@@ -1,0 +1,29 @@
+/* src/components/ThankYou/ThankYou.css */
+.thank-you-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.thank-you-container h1 {
+    font-size: 2.5rem;
+    color: #28a745;
+}
+
+.thank-you-container p {
+    margin: 20px 0;
+    font-size: 1.2rem;
+}
+
+.thank-you-container button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.thank-you-container button:hover {
+    background-color: #218838;
+}
